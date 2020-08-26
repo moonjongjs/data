@@ -1,0 +1,31 @@
+mysql 텍스트의 데이터형에 따른 글자 수 제한
+ 
+
+
+TEXT
+– 범위 : 최대 65535 글자
+
+MEDIUMTEXT
+– 범위 : 최대 16777215 글자
+
+LONGTEXT
+
+– 범위 : 최대 4294967295 글자 
+
+
+
+
+
+
+	
+[PHP 강좌] 25. DB를 이용한 메모장 만들기 1 (phpmyadmin 으로 테이블 만들기)
+ | PHP 강좌
+
+https://phpheaven.tistory.com/48 [PHPer's Heaven]
+https://phpheaven.tistory.com/48
+
+
+
+간단한 게시판 만들기
+https://recoveryman.tistory.com/212
+
